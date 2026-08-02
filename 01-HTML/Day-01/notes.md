@@ -35,3 +35,31 @@ Server website ki files store karta hai aur browser ko bhejta hai.
 - #header → div with id
 - ul>li*5 → List
 - nav>ul>li*5>a → Navigation
+
+
+# HTML Day 1 Part 3
+
+## <!DOCTYPE html>
+
+- HTML5 Declaration
+- Tag nahi hai
+- Browser ko HTML version batata hai
+
+## html
+
+- Root Element
+
+## lang
+
+- Language define karta hai
+
+## head
+
+- Metadata
+- CSS
+- Title
+- Meta Tags
+
+## body
+
+- Visible Content
